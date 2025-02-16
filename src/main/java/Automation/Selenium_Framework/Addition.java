@@ -4,9 +4,9 @@ public class Addition {
 
 	public static void main(String[] args) {
 		
-  // addition();
-   //subtraction();
-  // multiplication();
+  addition();
+   subtraction();
+  multiplication();
    divison();
    
    
