@@ -8,7 +8,7 @@ public class Reverse_String {
 		
 		int length=name.length();
 		
-		for (int i=length-1; i>0; i--)
+		for (int i=length-1; i>=0; i--)
 		{
 			reverse=reverse+name.charAt(i);
 		}
