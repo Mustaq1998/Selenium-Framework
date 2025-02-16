@@ -6,7 +6,9 @@ public class Addition {
 		
   // addition();
    //subtraction();
-   multiplication();
+  // multiplication();
+   divison();
+   
    
    
    
@@ -16,6 +18,18 @@ public class Addition {
 	
 	
 
+		
+	}
+
+	private static void divison() {
+	
+		
+		int a = 20;
+		int b = 10;
+		
+	int sum = a/b;
+	
+	System.out.println(sum);
 		
 	}
 
